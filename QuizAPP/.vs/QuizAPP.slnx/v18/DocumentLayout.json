@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92172FFF-8B72-D1D3-4625-15E076F27B4F}|QuizAPP\\QuizAPP.csproj|c:\\users\\shiwa\\source\\repos\\quizapp\\quizapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92172FFF-8B72-D1D3-4625-15E076F27B4F}|QuizAPP\\QuizAPP.csproj|solutionrelative:quizapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92172FFF-8B72-D1D3-4625-15E076F27B4F}|QuizAPP\\QuizAPP.csproj|c:\\users\\shiwa\\source\\repos\\quizapp\\quizapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92172FFF-8B72-D1D3-4625-15E076F27B4F}|QuizAPP\\QuizAPP.csproj|solutionrelative:quizapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92172FFF-8B72-D1D3-4625-15E076F27B4F}|QuizAPP\\QuizAPP.csproj|c:\\users\\shiwa\\source\\repos\\quizapp\\quizapp\\migrations\\20260909120638_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92172FFF-8B72-D1D3-4625-15E076F27B4F}|QuizAPP\\QuizAPP.csproj|solutionrelative:quizapp\\migrations\\20260909120638_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92172FFF-8B72-D1D3-4625-15E076F27B4F}|QuizAPP\\QuizAPP.csproj|c:\\users\\shiwa\\source\\repos\\quizapp\\quizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92172FFF-8B72-D1D3-4625-15E076F27B4F}|QuizAPP\\QuizAPP.csproj|solutionrelative:quizapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\QuizAPP\\appsettings.json",
+              "RelativeDocumentMoniker": "QuizAPP\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\QuizAPP\\appsettings.json",
+              "RelativeToolTip": "QuizAPP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-09T07:41:48.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260909120638_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\QuizAPP\\Migrations\\20260909120638_InitialMigration.cs",
+              "RelativeDocumentMoniker": "QuizAPP\\Migrations\\20260909120638_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\QuizAPP\\Migrations\\20260909120638_InitialMigration.cs",
+              "RelativeToolTip": "QuizAPP\\Migrations\\20260909120638_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:06:41.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\QuizAPP\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QuizAPP\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\QuizAPP\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QuizAPP\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:12:03.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\QuizAPP\\Program.cs",
+              "RelativeDocumentMoniker": "QuizAPP\\Program.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\QuizAPP\\QuizAPP\\Program.cs",
+              "RelativeToolTip": "QuizAPP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T07:45:31.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE8EDCF-DCF0-43DB-9BFB-FB25555ED331}|BookTicket.Web\\BookTicket.Web.csproj|c:\\users\\shiwa\\source\\repos\\bookticket.web\\bookticket.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE8EDCF-DCF0-43DB-9BFB-FB25555ED331}|BookTicket.Web\\BookTicket.Web.csproj|solutionrelative:bookticket.web\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C248728D-032F-4D5D-AF18-EAD2604C9129}|BookTicket.DataAccess\\BookTicket.DataAccess.csproj|c:\\users\\shiwa\\source\\repos\\bookticket.web\\bookticket.dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C248728D-032F-4D5D-AF18-EAD2604C9129}|BookTicket.DataAccess\\BookTicket.DataAccess.csproj|solutionrelative:bookticket.dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1068F789-B19E-4AEA-A872-EFC140E3E46D}|BusTicket.Models\\BusTicket.Models.csproj|c:\\users\\shiwa\\source\\repos\\bookticket.web\\busticket.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1068F789-B19E-4AEA-A872-EFC140E3E46D}|BusTicket.Models\\BusTicket.Models.csproj|solutionrelative:busticket.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1068F789-B19E-4AEA-A872-EFC140E3E46D}|BusTicket.Models\\BusTicket.Models.csproj|c:\\users\\shiwa\\source\\repos\\bookticket.web\\busticket.models\\seatdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1068F789-B19E-4AEA-A872-EFC140E3E46D}|BusTicket.Models\\BusTicket.Models.csproj|solutionrelative:busticket.models\\seatdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1068F789-B19E-4AEA-A872-EFC140E3E46D}|BusTicket.Models\\BusTicket.Models.csproj|c:\\users\\shiwa\\source\\repos\\bookticket.web\\busticket.models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1068F789-B19E-4AEA-A872-EFC140E3E46D}|BusTicket.Models\\BusTicket.Models.csproj|solutionrelative:busticket.models\\bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BookTicket.Web\\Startup.cs",
+              "RelativeDocumentMoniker": "BookTicket.Web\\Startup.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BookTicket.Web\\Startup.cs",
+              "RelativeToolTip": "BookTicket.Web\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T06:26:04.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BookTicket.DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BookTicket.DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BookTicket.DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BookTicket.DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T06:08:43.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BusTicket.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "BusTicket.Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BusTicket.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "BusTicket.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:50:27.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeatDetail.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BusTicket.Models\\SeatDetail.cs",
+              "RelativeDocumentMoniker": "BusTicket.Models\\SeatDetail.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BusTicket.Models\\SeatDetail.cs",
+              "RelativeToolTip": "BusTicket.Models\\SeatDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:33:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bus.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BusTicket.Models\\Bus.cs",
+              "RelativeDocumentMoniker": "BusTicket.Models\\Bus.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\BookTicket.Web\\BusTicket.Models\\Bus.cs",
+              "RelativeToolTip": "BusTicket.Models\\Bus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T05:27:15.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

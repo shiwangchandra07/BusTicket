@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\shiwa\\source\\repos\\elevatorsystem\\elevatorsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\shiwa\\source\\repos\\elevatorsystem\\elevatorsystem\\elevatorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\elevatorsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\shiwa\\source\\repos\\elevatorsystem\\elevatorsystem\\nearestelevatorstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\nearestelevatorstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\shiwa\\source\\repos\\elevatorsystem\\elevatorsystem\\ielevatorselectionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\ielevatorselectionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\shiwa\\source\\repos\\elevatorsystem\\elevatorsystem\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\elevator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|c:\\users\\shiwa\\source\\repos\\elevatorsystem\\elevatorsystem\\elevatorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A30ADE7-D912-4F6A-8BFD-DFA82276B0A0}|ElevatorSystem\\ElevatorSystem.csproj|solutionrelative:elevatorsystem\\elevatorrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElevatorSystem.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\ElevatorSystem.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\ElevatorSystem.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\ElevatorSystem.cs",
+              "RelativeToolTip": "ElevatorSystem\\ElevatorSystem.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:55:38.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\Program.cs",
+              "RelativeToolTip": "ElevatorSystem\\Program.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAADwv3oAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:31:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NearestElevatorStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\NearestElevatorStrategy.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\NearestElevatorStrategy.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\NearestElevatorStrategy.cs",
+              "RelativeToolTip": "ElevatorSystem\\NearestElevatorStrategy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:39:15.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IElevatorSelectionStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\IElevatorSelectionStrategy.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\IElevatorSelectionStrategy.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\IElevatorSelectionStrategy.cs",
+              "RelativeToolTip": "ElevatorSystem\\IElevatorSelectionStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:56:12.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Elevator.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\Elevator.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\Elevator.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\Elevator.cs",
+              "RelativeToolTip": "ElevatorSystem\\Elevator.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwHcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:55:17.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElevatorRequest.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\ElevatorRequest.cs",
+              "RelativeDocumentMoniker": "ElevatorSystem\\ElevatorRequest.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\ElevatorSystem\\ElevatorSystem\\ElevatorRequest.cs",
+              "RelativeToolTip": "ElevatorSystem\\ElevatorRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T17:55:48.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

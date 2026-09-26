@@ -1,0 +1,14 @@
+C:\Users\shiwa\source\repos\hellow\hellow\bin\Debug\net10.0\hellow.exe
+C:\Users\shiwa\source\repos\hellow\hellow\bin\Debug\net10.0\hellow.deps.json
+C:\Users\shiwa\source\repos\hellow\hellow\bin\Debug\net10.0\hellow.runtimeconfig.json
+C:\Users\shiwa\source\repos\hellow\hellow\bin\Debug\net10.0\hellow.dll
+C:\Users\shiwa\source\repos\hellow\hellow\bin\Debug\net10.0\hellow.pdb
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\hellow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\hellow.AssemblyInfoInputs.cache
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\hellow.AssemblyInfo.cs
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\hellow.csproj.CoreCompileInputs.cache
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\hellow.dll
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\refint\hellow.dll
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\hellow.pdb
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\hellow.genruntimeconfig.cache
+C:\Users\shiwa\source\repos\hellow\hellow\obj\Debug\net10.0\ref\hellow.dll

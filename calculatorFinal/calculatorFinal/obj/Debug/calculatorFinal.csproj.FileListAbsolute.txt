@@ -1,0 +1,7 @@
+C:\Users\shiwa\source\repos\calculatorFinal\calculatorFinal\bin\Debug\calculatorFinal.exe.config
+C:\Users\shiwa\source\repos\calculatorFinal\calculatorFinal\bin\Debug\calculatorFinal.exe
+C:\Users\shiwa\source\repos\calculatorFinal\calculatorFinal\bin\Debug\calculatorFinal.pdb
+C:\Users\shiwa\source\repos\calculatorFinal\calculatorFinal\obj\Debug\calculatorFinal.csproj.AssemblyReference.cache
+C:\Users\shiwa\source\repos\calculatorFinal\calculatorFinal\obj\Debug\calculatorFinal.csproj.CoreCompileInputs.cache
+C:\Users\shiwa\source\repos\calculatorFinal\calculatorFinal\obj\Debug\calculatorFinal.exe
+C:\Users\shiwa\source\repos\calculatorFinal\calculatorFinal\obj\Debug\calculatorFinal.pdb

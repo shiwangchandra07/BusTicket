@@ -1,0 +1,50 @@
+﻿@model Book
+
+@{
+    ViewData["Title"] = "Edit Book";
+}
+
+<h1>Edit Book</h1>
+<hr />
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Edit">
+            @Html.AntiForgeryToken()
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group mb-3">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Author" class="control-label"></label>
+                <input asp-for="Author" class="form-control" />
+                <span asp-validation-for="Author" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="quantity" class="control-label"></label>
+                <input asp-for="quantity" class="form-control" />
+                <span asp-validation-for="quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">
+                    <i class="bi bi-check-circle"></i> Save
+                </button>
+                <a asp-action="Index" class="btn btn-secondary">
+                    <i class="bi bi-arrow-left-circle"></i> Back to List
+                </a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

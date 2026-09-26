@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|c:\\users\\shiwa\\source\\repos\\postgresqldemo\\postgresqldemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65A6B5F1-67D7-66AF-AE82-62E5825658F0}|PostgreSqlDemo\\PostgreSqlDemo.csproj|solutionrelative:postgresqldemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\appsettings.json",
+              "RelativeToolTip": "PostgreSqlDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-08T10:20:21.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\appsettings.Development.json",
+              "RelativeToolTip": "PostgreSqlDemo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-08T10:20:17.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PostgreSqlDemo\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T10:18:00.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "PostgreSqlDemo\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T09:41:17.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Models\\Book.cs",
+              "RelativeToolTip": "PostgreSqlDemo\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T10:14:21.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PostgreSqlDemo\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T10:15:14.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PostgreSqlDemo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T10:15:21.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PostgreSqlDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T10:16:39.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "PostgreSqlDemo\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T09:41:33.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "PostgreSqlDemo\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T09:41:49.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PostgreSqlDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T10:14:38.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PostgreSqlDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T10:14:32.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "PostgreSqlDemo\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T09:38:27.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PostgreSqlDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-08T10:14:34.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Program.cs",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Program.cs",
+              "RelativeToolTip": "PostgreSqlDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T10:17:20.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "PostgreSqlDemo\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T09:04:10.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PostgreSqlDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\PostgreSqlDemo\\PostgreSqlDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PostgreSqlDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-06T09:44:12.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

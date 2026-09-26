@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OKu5IN6cJPY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiwa\\source\\repos\\webLearn\\webLearn\\webLearn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiwa\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\10.0.11\\microsoft.aspnetcore.authentication.negotiate.10.0.11.nupkg.sha512",
+    "C:\\Users\\shiwa\\.nuget\\packages\\system.directoryservices.protocols\\10.0.11\\system.directoryservices.protocols.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

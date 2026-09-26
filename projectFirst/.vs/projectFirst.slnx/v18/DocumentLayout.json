@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA1CDA0-6687-41EF-BF17-17BEC467AF41}|projectFirst\\projectFirst.csproj|c:\\users\\shiwa\\source\\repos\\projectfirst\\projectfirst\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA1CDA0-6687-41EF-BF17-17BEC467AF41}|projectFirst\\projectFirst.csproj|solutionrelative:projectfirst\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA1CDA0-6687-41EF-BF17-17BEC467AF41}|projectFirst\\projectFirst.csproj|c:\\users\\shiwa\\source\\repos\\projectfirst\\projectfirst\\data\\financeappcontext.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1DA1CDA0-6687-41EF-BF17-17BEC467AF41}|projectFirst\\projectFirst.csproj|solutionrelative:projectfirst\\data\\financeappcontext.cs||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA1CDA0-6687-41EF-BF17-17BEC467AF41}|projectFirst\\FinanceApp.csproj|c:\\users\\shiwa\\source\\repos\\projectfirst\\projectfirst\\financeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1DA1CDA0-6687-41EF-BF17-17BEC467AF41}|projectFirst\\FinanceApp.csproj|solutionrelative:projectfirst\\financeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA1CDA0-6687-41EF-BF17-17BEC467AF41}|projectFirst\\projectFirst.csproj|c:\\users\\shiwa\\source\\repos\\projectfirst\\projectfirst\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA1CDA0-6687-41EF-BF17-17BEC467AF41}|projectFirst\\projectFirst.csproj|solutionrelative:projectfirst\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinanceAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\projectFirst\\Data\\FinanceAppContext.cs",
+              "RelativeDocumentMoniker": "projectFirst\\Data\\FinanceAppContext.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\projectFirst\\Data\\FinanceAppContext.cs",
+              "RelativeToolTip": "projectFirst\\Data\\FinanceAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T22:14:02.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinanceAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\projectFirst\\Data\\FinanceAppContext.cs",
+              "RelativeDocumentMoniker": "projectFirst\\Data\\FinanceAppContext.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\projectFirst\\Data\\FinanceAppContext.cs",
+              "RelativeToolTip": "projectFirst\\Data\\FinanceAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T22:07:45.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinanceApp.csproj",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\projectFirst\\FinanceApp.csproj",
+              "RelativeDocumentMoniker": "projectFirst\\FinanceApp.csproj",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\projectFirst\\FinanceApp.csproj",
+              "RelativeToolTip": "projectFirst\\FinanceApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T22:06:45.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\projectFirst\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "projectFirst\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\projectFirst\\projectFirst\\Models\\Expense.cs",
+              "RelativeToolTip": "projectFirst\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T21:53:29.01Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

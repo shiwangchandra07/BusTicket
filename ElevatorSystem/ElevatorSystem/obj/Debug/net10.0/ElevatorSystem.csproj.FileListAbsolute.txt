@@ -1,0 +1,15 @@
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\bin\Debug\net10.0\ElevatorSystem.exe
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\bin\Debug\net10.0\ElevatorSystem.deps.json
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\bin\Debug\net10.0\ElevatorSystem.runtimeconfig.json
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\bin\Debug\net10.0\ElevatorSystem.dll
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\bin\Debug\net10.0\ElevatorSystem.pdb
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\ElevatorSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\ElevatorSystem.AssemblyInfoInputs.cache
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\ElevatorSystem.AssemblyInfo.cs
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\ElevatorSystem.csproj.CoreCompileInputs.cache
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\ElevatorSystem.dll
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\refint\ElevatorSystem.dll
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\ElevatorSystem.pdb
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\ElevatorSystem.genruntimeconfig.cache
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\ref\ElevatorSystem.dll
+C:\Users\shiwa\source\repos\ElevatorSystem\ElevatorSystem\obj\Debug\net10.0\Elevator.FF39A478.Up2Date

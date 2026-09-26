@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LomYNu1B+vM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shiwa\\source\\repos\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shiwa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\shiwa\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

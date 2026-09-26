@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiwa\\source\\repos\\VideoGameCharacterApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|c:\\users\\shiwa\\source\\repos\\videogamecharacterapi\\videogamecharacterapi\\videogamecharacterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E0CD3C69-57E1-53BF-A39D-4F9C232F05A9}|VideoGameCharacterApi\\VideoGameCharacterApi.csproj|solutionrelative:videogamecharacterapi\\videogamecharacterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoGameCharacterApi.http",
+              "DocumentMoniker": "C:\\Users\\shiwa\\source\\repos\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.http",
+              "RelativeDocumentMoniker": "VideoGameCharacterApi\\VideoGameCharacterApi.http",
+              "ToolTip": "C:\\Users\\shiwa\\source\\repos\\VideoGameCharacterApi\\VideoGameCharacterApi\\VideoGameCharacterApi.http",
+              "RelativeToolTip": "VideoGameCharacterApi\\VideoGameCharacterApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-06T20:10:03.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BookTicket.DataAccess/BookTicket.DataAccess.csproj" />
+  <Project Path="BookTicket.Web/BookTicket.Web.csproj" />
+  <Project Path="BusTicket.Models/BusTicket.Models.csproj" />
+</Solution>
